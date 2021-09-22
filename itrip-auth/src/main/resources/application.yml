@@ -1,0 +1,7 @@
+##设置启动的端口
+server:
+  #启动端口
+  port: 8081
+  #项目根路径
+  servlet:
+    context-path: /auth
